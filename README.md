@@ -1,7 +1,7 @@
 ### Hi. I'm Pete 👋
 
 - 🌱 I’m currently pursuing a **Master's in Applied Statistics** at the **University of Michigan** 
-- 🔭 I’m currently taking courses in Statistical Inference, Multivariate Analysis, and Time Series Modeling
+- 🔭 I’m currently taking courses in Reinforcement Learning, Numerical Mothods, and Bayesian Modeling
 - 👯 I’m egineering analytics platforms for NASA's Glenn, Ames, and Langley Research Centers
 - 😄 Pronouns: he/him/his
 
